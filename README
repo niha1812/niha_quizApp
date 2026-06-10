@@ -1,0 +1,61 @@
+Flashcard Quiz App
+
+📌 Project Overview
+
+The Flashcard Quiz App is a simple and interactive Python application developed using Tkinter. It helps users study and memorize information through digital flashcards. Each flashcard contains a question on the front and an answer on the back.
+
+Users can easily navigate through flashcards, reveal answers, and manage their own flashcard collection by adding, editing, or deleting cards.
+
+✨ Features
+
+- Display questions on flashcards
+- Show answers with a single click
+- Navigate using Next and Previous buttons
+- Add new flashcards
+- Edit existing flashcards
+- Delete unwanted flashcards
+- User-friendly graphical interface
+- Automatic data storage using JSON files
+
+🛠️ Technologies Used
+
+- Python
+- Tkinter (GUI Library)
+- JSON (Data Storage)
+
+🚀 How to Run
+
+1. Install Python on your system.
+2. Download the project files.
+3. Open the project folder in VS Code.
+4. Run the following command:
+
+python flashcard_quiz_app.py
+
+📂 Project Structure
+
+FlashcardQuizApp/
+│
+├── flashcard_quiz_app.py
+├── flashcards.json
+└── README.md
+
+🎯 Learning Outcomes
+
+- Python GUI Development using Tkinter
+- Working with JSON files
+- CRUD Operations (Create, Read, Update, Delete)
+- Event Handling in Python
+- Building Interactive Applications
+
+📸 Output
+
+The application provides a clean and simple interface where users can create, manage, and review flashcards efficiently.
+
+👩‍💻 Author
+
+Jayasree Konathala
+
+Internship Project
+
+Developed as part of the CodeAlpha App Development Internship Program.

@@ -1,0 +1,60 @@
+[
+    {
+        "question": "What is the capital of India?",
+        "answer": "New Delhi"
+    },
+    {
+        "question": "Who developed Python?",
+        "answer": "Guido van Rossum"
+    },
+    
+    {
+        "question": "what is the capital of hyd?",
+        "answer": "telangana"
+    },
+    {
+        "question": "what does cpu stands for?",
+        "answer": "central processing unit"
+    },
+    {
+        "question": "what is 10*5?",
+        "answer": "50"
+    },
+    {
+        "question": "what is squareroot of 81?",
+        "answer": "9"
+    },
+    {
+        "question": "what is the largest planet in our solar system?",
+        "answer": "jupitar"
+    },
+    {
+        "question": "who is known as the father of computers?",
+        "answer": "charles babbage"
+    },
+    {
+        "question": "which language is used for android development?",
+        "answer": "kotlin"
+    },
+    {
+        "question": "what is the full form of url?",
+        "answer": "uniform resourse locator"
+    },
+    {
+        "question": "what is a database?",
+        "answer": "an organised collection of data."
+    },
+    {
+        "question": "what is github?",
+        "answer": "A platform for hosting git repositories."
+    },
+    {
+        "question": "who invented the world wide wed?",
+        "answer": "tim berners-lee"
+    },
+    {
+        "question": "what is os?",
+        "answer": "system software that manages computer resourses"
+    }
+
+]
