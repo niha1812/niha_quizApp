@@ -1,13 +1,8 @@
 [
     {
-        "question": "What is the capital of India?",
-        "answer": "New Delhi"
-    },
-    {
         "question": "Who developed Python?",
         "answer": "Guido van Rossum"
     },
-    
     {
         "question": "what is the capital of hyd?",
         "answer": "telangana"
@@ -49,12 +44,11 @@
         "answer": "A platform for hosting git repositories."
     },
     {
-        "question": "who invented the world wide wed?",
+        "question": "who invented the world wide web?",
         "answer": "tim berners-lee"
     },
     {
         "question": "what is os?",
         "answer": "system software that manages computer resourses"
     }
-
 ]
